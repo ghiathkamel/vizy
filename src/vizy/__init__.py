@@ -18,3 +18,4 @@ from .newprojectdialog import NewProjectDialog
 from .openprojectdialog import OpenProjectDialog
 from .exportprojectdialog import ExportProjectDialog
 from .importprojectdialog import ImportProjectDialog
+from .pixy2camera import Pixy2Camera
